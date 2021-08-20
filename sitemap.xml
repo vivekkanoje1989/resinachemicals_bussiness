@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+   <url>
+
+      <loc>http://www.resinachemicals.tk/</loc>
+
+      <lastmod>2018-12-01</lastmod>
+
+      <changefreq>Yearly</changefreq>
+
+      <priority>0.8</priority>
+
+   </url>
+
+    <url>
+
+      <loc>http://www.resinachemicals.tk/pages/loadView/web_home</loc>
+
+      <changefreq>yearly</changefreq>
+
+   </url>
+
+   <url>
+
+      <loc>http://www.resinachemicals.tk/pages/loadView/web_contact</loc>
+
+      <changefreq>yearly</changefreq>
+
+   </url>
+
+   <url>
+
+      <loc>http://www.resinachemicals.tk/pages/loadView/login</loc>
+
+      <changefreq>yearly</changefreq>
+
+   </url>
+
+    <url>
+
+      <loc>http://www.resinachemicals.tk/pages/loadView/home</loc>
+
+      <changefreq>yearly</changefreq>
+
+   </url>
+
+   <url>
+
+      <loc>http://www.resinachemicals.tk/pages/loadView/bills</loc>
+
+      <changefreq>daily</changefreq>
+
+   </url>
+
+   <url>
+
+      <loc>http://www.resinachemicals.tk/pages/loadView/invoice</loc>
+
+      <changefreq>daily</changefreq>
+
+   </url>
+
+</urlset> 

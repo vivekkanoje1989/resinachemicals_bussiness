@@ -1,0 +1,12 @@
+{
+    "cities" : [{
+      "id": "48355",
+      "name": "Yumbo",
+      "state_id": "805"
+    },
+    {
+      "id": "48356",
+      "name": "Zarzal",
+      "state_id": "805"
+    }]
+}

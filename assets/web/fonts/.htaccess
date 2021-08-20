@@ -1,0 +1,4 @@
+# Apache config
+<FilesMatch ".(eot|ttf|otf|woff|js|css|min.css|jpg|jpeg|svg|png)">
+    Header set Access-Control-Allow-Origin "*"
+</FilesMatch>
